@@ -1,4 +1,4 @@
-Fake News Detection 📰
+## Fake News Detection 📰
 NLP project comparing 9 machine learning and deep learning models to classify news articles as real or fake. Built on a dataset of 44,898 articles using a full text preprocessing pipeline and multiple embedding strategies.
 
 ## 📊 Results
