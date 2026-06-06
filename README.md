@@ -22,6 +22,31 @@ NLP project comparing 9 machine learning and deep learning models to classify ne
 
 ---
 
+## 📈 Visualisations
+
+### 1. Subject Distribution
+![Subject Distribution](images/subject_distribution.png)
+
+### 2. Class Distribution
+![Class Distribution](images/class_distribution.png)
+
+### 3. ROC Curves
+![ROC Curves](images/roc_curves.png)
+
+### 4. Precision-Recall Curves
+![Precision Recall](images/precision_recall.png)
+
+### 5. Model Comparison
+![Model Comparison](images/model_comaprison.png)
+
+### 6. USE vs GloVe
+![USE vs GloVe](images/USE_vs_GloVe.png)
+
+### 7. Confusion Matrices
+![Confusion Matrices](images/confusion_matrices.png)
+
+---
+
 ## 🔄 NLP Pipeline
 
 Text preprocessing steps applied to all 44,898 articles:
